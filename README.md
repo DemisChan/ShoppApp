@@ -1,4 +1,4 @@
-# Gymshark Shop
+# Shop App
 
 A small Android app that fetches a product catalogue from a remote JSON endpoint and
 presents it as a browsable product list with a detail screen. Built with Jetpack Compose
