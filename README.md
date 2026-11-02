@@ -87,3 +87,8 @@ The app reads from:
 https://cdn.develop.gymshark.com/training/mock-product-responses/algolia-example-payload.json
 ```
 
+
+## License
+
+Released under the [MIT License](LICENSE). The product data and any Gymshark branding
+referenced by the app belong to their respective owners and are not covered by this licence.
